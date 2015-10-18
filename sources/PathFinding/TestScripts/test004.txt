@@ -1,4 +1,4 @@
-test002
+test004
 bellmanfordlimit
 FLAT MINEDGECONN
 1000 25 40 1125147001

@@ -2,25 +2,13 @@
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
 VALUES('dijkstra',
                             1000,
-                           39185,
+                           22243,
                               25,
                               40,
                       1125147001,
-                        31814721,
+                        22058561,
                        'test002',
-      '(682)246,376,518,482,896');
-
--- Test finished
-INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('bellmanford',
-                            1000,
-                           39185,
-                              25,
-                              40,
-                      1125147001,
-                        24513381,
-                       'test002',
-      '(682)246,376,518,482,896');
+'(844)86,51,368,993,975,514,241,204,13,992,320,530,534');
 
 -- Test finished
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
@@ -30,43 +18,55 @@ VALUES('dijkstra',
                               25,
                               40,
                       1125147001,
-                       101509956,
-                       'test002',
-       '(396)2424,1875,834,2492');
-
--- Test finished
-INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('bellmanford',
-                            2500,
-                           99137,
-                              25,
-                              40,
-                      1125147001,
-                        99631214,
+                        92582109,
                        'test002',
        '(396)2424,1875,834,2492');
 
 -- Test finished
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
 VALUES('dijkstra',
-                            1000,
-                            9900,
+                            5000,
+                           82744,
                               25,
-                               2,
-                         1125147,
-                         8546890,
+                              30,
+                      1125147001,
+                        99344259,
                        'test002',
-           '(984)527,371,33,892');
+'(361)2852,2877,3491,4263,171,4637,2316,4087,2697,3815,1246');
 
 -- Test finished
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('bellmanford',
-                            1000,
-                            9900,
+VALUES('dijkstra',
+                           10000,
+                          199778,
                               25,
-                               2,
-                         1125147,
-                         5974583,
+                              20,
+                      1125147001,
+                       541554687,
                        'test002',
-           '(984)527,371,33,892');
+  '(863)7192,824,6293,4319,2579');
+
+-- Test finished
+INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
+VALUES('dijkstra',
+                           20000,
+                          499682,
+                              25,
+                              25,
+                      1125147001,
+                      4162280094,
+                       'test002',
+    '(1243)4796,8106,6746,16809');
+
+-- Test finished
+INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
+VALUES('dijkstra',
+                           30000,
+                         1199210,
+                              25,
+                              40,
+                      1125147001,
+                     16537579164,
+                       'test002',
+'(894)25881,9406,16161,28457,17680');
 
