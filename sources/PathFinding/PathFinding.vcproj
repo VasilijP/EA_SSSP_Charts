@@ -15,19 +15,21 @@
 			OutputDirectory="Debug"
 			IntermediateDirectory="Debug"
 			ConfigurationType="1"
-			CharacterSet="2">
+			UseOfMFC="0"
+			CharacterSet="2"
+			ManagedExtensions="TRUE">
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
 				PreprocessorDefinitions="WIN32;_DEBUG;_CONSOLE"
-				MinimalRebuild="TRUE"
-				BasicRuntimeChecks="3"
-				RuntimeLibrary="5"
+				MinimalRebuild="FALSE"
+				BasicRuntimeChecks="0"
+				RuntimeLibrary="1"
 				UsePrecompiledHeader="0"
 				PrecompiledHeaderThrough=""
 				WarningLevel="3"
 				Detect64BitPortabilityProblems="TRUE"
-				DebugInformationFormat="4"/>
+				DebugInformationFormat="3"/>
 			<Tool
 				Name="VCCustomBuildTool"/>
 			<Tool
@@ -35,6 +37,7 @@
 				OutputFile="$(OutDir)/PathFinding.exe"
 				LinkIncremental="2"
 				GenerateDebugInformation="TRUE"
+				AssemblyDebug="1"
 				ProgramDatabaseFile="$(OutDir)/PathFinding.pdb"
 				SubSystem="1"
 				TargetMachine="1"/>
@@ -123,6 +126,9 @@
 				RelativePath=".\PathFinding.cpp">
 			</File>
 			<File
+				RelativePath=".\solutions.cpp">
+			</File>
+			<File
 				RelativePath=".\utils.cpp">
 			</File>
 		</Filter>
@@ -137,6 +143,9 @@
 				RelativePath=".\List.h">
 			</File>
 			<File
+				RelativePath=".\solutions.h">
+			</File>
+			<File
 				RelativePath=".\types.h">
 			</File>
 			<File
@@ -147,6 +156,13 @@
 			Name="Resource Files"
 			Filter="rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx"
 			UniqueIdentifier="{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}">
+		</Filter>
+		<Filter
+			Name="TestScripts"
+			Filter="">
+			<File
+				RelativePath=".\test001.txt">
+			</File>
 		</Filter>
 		<File
 			RelativePath=".\ReadMe.txt">

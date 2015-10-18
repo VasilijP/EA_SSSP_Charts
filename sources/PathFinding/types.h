@@ -19,3 +19,10 @@ typedef struct {
 	EDGE* E;//hrany, indexovane normalne od 0 po edgeNo-1
 	VERT* V;//vrcholy, nulty prvok sa nepocita, vrcholy sa indexuju od 1 po vertNo
 } JOB;
+
+typedef struct {
+	bool exists; //existuje riesenie?
+	unsigned int l;//dlzka cesty
+	unsigned int vertNo;//pocet vrcholov na ceste
+	unsigned int * V;//vrcholy cesty
+} SOLUTION;

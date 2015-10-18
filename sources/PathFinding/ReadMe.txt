@@ -35,29 +35,31 @@ Na citanie bude sluzit metoda getJob(), vrati strukturu s ulohou.
 V pripade ze nemozno graf z danymi parametrami vygenerovat, je RV NULL.
 
 TESTY
-kazdy test bude napisany v hlavnom zdrojovom subore, komentar bude obsahovat 
-popis testu a nazov vystupneho suboru. Vystupne subory by mali obsahovat skript
-SQL ktory vklada udaje do databazy(pre dalsie spracovanie).
-(Vytvorenie databazy bude zvlast.)
-
-Pre kazdy beh algoritmu hladania cesty plati, ze ak cesta medzi zadanymi 
-vrcholmi neexistuje, pokus sa nepocita. (pretoze predpokladame vstupnu ulohu
-ktora ma riesenie v podobe najdenej cesty)
+Test bude tvoreny testovacou davkou, hlavny program dostane nazov vstupnej davky
+ako parameter, presny format bude popisany neskor, ale vystupom kazdej davky bude sql skript
+vkladajuci vysledky do databazy.
 
 IMPLEMENTACIE
 
-kazda implementacia ma nazov v nejakej standardnej frome, nech je to XXX, 
-uloha obsahuje Verts - vrcholy, Edges - hrany, Src,Dst identifikator
-pociatocneho a koncoveho vrcholu a JobID (jedinecny) identifikator ulohy.
-Bude metoda vracajuca cestu XXXPath ako retazec identifikatorov 
-vrcholov oddelenych ciarkami(po skonceni riesenia).
-XXXSolve bude sluzit na spustenie riesenia. XXXFinish uvedie kniznicu do 
-povodneho stavu ako na zaciatku, tj uvolni retazec riesenia aj strukturu so 
-zadanim.
+uloha obsahuje: 
+ Verts - vrcholy, (aj pocet vrcholov)
+ Edges - hrany, (aj pocet hran) 
+ Src,Dst identifikator pociatocneho a koncoveho vrcholu a 
+ JobID (jedinecny) identifikator ulohy, 
 
-Stopuje sa cas behu XXXSolve.
+pomocou JobID je mozne ulohu znovu vytvorit (ak budu zname aj ostatne parametre ulohy)
+Riesenie bude spocivat v jedinej metode, ktora dostane jediny parameter - ukazatel na strukturu s ulohou a vystupom bude ukazatel na riesenie. 
+Riesenim ulohy je retazec cisel oddelenych ciarkou, na zaciatku je v zatvorke dlzka cesty, potom nasleduje zoznam cisel, prve cislo je cislo pociatocneho vrcholu a posledne cislo je cislo koncoveho vrcholu, ostatne cisla budu po poradi cisla vrcholov ako nasleduju na lubovolnej z najkratsich ciest z pociatocneho do koncoveho vrchola.
+Ak riesenie pre danu ulohu nieje, retazec obsahuje iba 'NONE'
 
-Potom sa preberu vysledky XXXPath a zavola sa XXXFinish.
+Stopuje sa cas behu riesenia pomocou instrukcie RDTSC.
 
+FORMAT Testovacieho scenara
 
+prvy riadok - nazov vystupneho skriptu, bez pripony sql
+ dalej lubovolne krat
+1. riadok - nazov testovaneho algoritmu
+2. riadok - prepinace oddelene medzerami (SPACE, FLAT...)
+3. riadok - cele cisla po poradi: vertNo, eLenAdd, conn, taskId (pre -1 sa pouzije nahodny taskId)
+posledny riadok - 'END'
 /////////////////////////////////////////////////////////////////////////////
