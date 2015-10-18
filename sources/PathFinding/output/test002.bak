@@ -1,96 +1,72 @@
 -- Test finished
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('bellmanfordlimit',
+VALUES('dijkstra',
                             1000,
                            39185,
                               25,
                               40,
                       1125147001,
-                        25273971,
+                        31814721,
                        'test002',
       '(682)246,376,518,482,896');
 
 -- Test finished
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('dijkstraheap',
+VALUES('bellmanford',
                             1000,
                            39185,
                               25,
                               40,
                       1125147001,
-                        22797720,
+                        24513381,
                        'test002',
       '(682)246,376,518,482,896');
 
 -- Test finished
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('bellmanfordlimit',
+VALUES('dijkstra',
                             2500,
                            99137,
                               25,
                               40,
                       1125147001,
-                        78118047,
+                       101509956,
                        'test002',
        '(396)2424,1875,834,2492');
 
 -- Test finished
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('dijkstraheap',
+VALUES('bellmanford',
                             2500,
                            99137,
                               25,
                               40,
                       1125147001,
-                        77260905,
+                        99631214,
                        'test002',
        '(396)2424,1875,834,2492');
 
 -- Test finished
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('bellmanfordlimit',
-                            5000,
-                           82744,
+VALUES('dijkstra',
+                            1000,
+                            9900,
                               25,
-                              30,
-                      1125147001,
-                        94193469,
+                               2,
+                         1125147,
+                         8546890,
                        'test002',
-'(361)2852,2877,3491,4263,171,4182,4924,4087,2697,3815,1246');
+           '(984)527,371,33,892');
 
 -- Test finished
 INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('dijkstraheap',
-                            5000,
-                           82744,
+VALUES('bellmanford',
+                            1000,
+                            9900,
                               25,
-                              30,
-                      1125147001,
-                        86134320,
+                               2,
+                         1125147,
+                         5974583,
                        'test002',
-'(361)2852,2877,3491,4263,171,4637,2316,4087,2697,3815,1246');
-
--- Test finished
-INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('bellmanfordlimit',
-                            5000,
-                           57137,
-                              25,
-                              20,
-                      1125147001,
-                        65300769,
-                       'test002',
-'(878)2342,3961,3339,1580,923,1502,1130,4256,1397,1575,2501,1912');
-
--- Test finished
-INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) 
-VALUES('dijkstraheap',
-                            5000,
-                           57137,
-                              25,
-                              20,
-                      1125147001,
-                        57610224,
-                       'test002',
-'(878)2342,3961,3339,1580,923,1502,1130,4256,1397,1575,2501,1912');
+           '(984)527,371,33,892');
 

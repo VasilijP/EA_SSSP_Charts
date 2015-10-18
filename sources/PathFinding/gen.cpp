@@ -145,7 +145,8 @@ void genEdges(unsigned int flags, JOB* j, unsigned int conn, System::Random* r){
 			for(unsigned int rpc2=1; rpc2<=j->vertNo; rpc2++)
 				verts[rpc2]=(distance_ui(j->V[rpc1],j->V[rpc2])<<16)+rpc2;//horne dvojslovo bude vzdialenost, dolne cislo vrcholu
 			verts[0]=0;verts[rpc1]=0;
-			qsort(verts,j->vertNo+1,sizeof(unsigned int),compare);//0. a 1. vynechame			
+			//qsort(verts,j->vertNo+1,sizeof(unsigned int),compare);//0. a 1. vynechame			
+			qsortNR(verts,0,j->vertNo,vdegs[rpc1]+1);
 			assert(verts[0]==0);assert(verts[1]==0);
 			for(unsigned int rpc2=0;rpc2<vdegs[rpc1];rpc2++){
 				v1 = verts[rpc2+2] & 0xFFFF;

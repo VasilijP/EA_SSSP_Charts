@@ -4,8 +4,8 @@
 #include <math.h>
 #include "types.h"
 
-//porovnava dva unsigned inty, hodi sa pre qsort
-int compare(const void * a,const void * b);
+//nerekurzivna verzia quicksortu P su prvky, s,e je rozsah, l je limit, pokial staci zotriedit
+void qsortNR(unsigned int * P, int s, int e, int l);
 
 //pocita vzdialenost vrcholov
 double distance(VERT a, VERT b);

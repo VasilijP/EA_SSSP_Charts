@@ -74,7 +74,7 @@ int _tmain(int argc, _TCHAR* argv[])
 			OUT << "INSERT INTO result(alg,vertcount,elenadd,conn,batchname,result) \nVALUES('";
 			OUT << AName << "',\n" << vertNo << ",\n" << eLenAdd << ",\n" << conn <<",\n'" << BatchName <<"',\n'ERROR');" << endl << endl;
 		} else {/*NAJDENIE zodpovedajuceho algoritmu a spustenie riesenia a zapisanie vysledkov*/
-			int rpc = 0;
+			unsigned int rpc = 0;
 			while ((rpc < ALGCOUNT)&&(AlgNames[rpc] != AName)) rpc++;
 			if (rpc >= ALGCOUNT){//nenasiel sa zodpovedajuci algoritmus
 				OUT << "-- Unable to find algorithm " << AName << endl;
@@ -84,7 +84,8 @@ int _tmain(int argc, _TCHAR* argv[])
 				t_duration_cycles alg_started, alg_stopped, alg_duration;
 				SOLUTION * result;
 				JOB * j = getJob();
-				int w = 9 + AName.length();
+				cout << "-- Created JOB E: " <<j->edgeNo <<" V: " <<j->vertNo <<endl;
+				int w = 32;//9 + (int)AName.length();
 
 				//odstopovat cas
 				alg_started = get_cycles();
@@ -96,6 +97,7 @@ int _tmain(int argc, _TCHAR* argv[])
 				string resultStr = solutionToStr(result);				
 				delete[] result->V;
 				delete result;
+				cout << "-- Test finished : " << setw(16) << AName << " in " << setw(16) << alg_duration << " cycles" <<endl;
 				//zapisat udaje, vysledok a dlzku behu
 				OUT << "-- Test finished" << endl;
 				OUT << "INSERT INTO result(alg,vertcount,edgecount,elenadd,conn,task,cycles,batchname,result) \nVALUES('";
@@ -144,7 +146,7 @@ string solutionToStr(const SOLUTION * s){
 		
 	stringstream rvs;	
 	rvs << '(' << s->l << ')' << s->V[0];	
-	for (int rpc = 1; rpc<s->vertNo; rpc++){
+	for (unsigned int rpc = 1; rpc<s->vertNo; rpc++){
 		rvs << ',' << s->V[rpc];
 	}
 	return(rvs.str());

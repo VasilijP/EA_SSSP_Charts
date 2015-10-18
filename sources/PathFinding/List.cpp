@@ -78,7 +78,8 @@ void List::dupkick(void){
 		tmp[rpc]=get();
 	} 
 	assert(get()==0);assert(getSize()==0);
-    qsort(tmp,size, sizeof(unsigned int),compare);
+    //qsort(tmp,size, sizeof(unsigned int),compare);
+	qsortNR(tmp,0,size-1,size);
     for(rpc=1; rpc<size; rpc++) 
 		if(tmp[rpc]==tmp[rpc-1]) tmp[rpc-1]=0;//vynuluje duplicity
 	for(rpc=0; rpc<size; rpc++)
