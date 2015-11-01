@@ -1,0 +1,62 @@
+dijkstraheapgeomSPACE_PEREDGECONN1
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 1
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 2
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 3
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 4
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 5
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 6
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 7
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 8
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 9
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 10
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 11
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 12
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 13
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 14
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 15
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 16
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 17
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 18
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 19
+dijkstraheapgeom
+SPACE PEREDGECONN
+5000 25 3 20
+END

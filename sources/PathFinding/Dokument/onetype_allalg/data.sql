@@ -1,0 +1,1 @@
+ select cycles, edgecount, alg into outfile 'D:/data.txt' from result;

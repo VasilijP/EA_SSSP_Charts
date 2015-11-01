@@ -1,0 +1,5 @@
+test002
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 500 1125147001
+END

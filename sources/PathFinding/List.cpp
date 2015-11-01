@@ -84,4 +84,5 @@ void List::dupkick(void){
 		if(tmp[rpc]==tmp[rpc-1]) tmp[rpc-1]=0;//vynuluje duplicity
 	for(rpc=0; rpc<size; rpc++)
 		if(tmp[rpc]!=0) put(tmp[rpc]);
+ delete[] tmp;
 }

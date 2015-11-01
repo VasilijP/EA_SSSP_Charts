@@ -18,7 +18,7 @@
 #define MAXVERTS 30000
 
 JOB*actualJob = NULL;//ukazatel na aktualne vygenerovanu ulohu
-/*Udaje o poslednom generovani*/
+/*Udaje o poslednom generovani*/                                         
 unsigned int last_flags;
 unsigned int last_vertNo;
 unsigned int last_eLenAdd;
@@ -107,9 +107,9 @@ void genVertDegs(JOB * j){
 	   bude pridana...
 	PEREDGECONN + NEAREST
 	 - prejdu sa vsetky vrcholy a k nim sa vertNo krat s pravdepodobnostou
-	   1/(1+sqrt(1-conn)) pripocita +1 (tato udalost je
+	   1-sqrt(1-conn)) pripocita +1 (tato udalost je
 	   v zlozenej pravdepodobnosti ekvivalentna k zaradeniu hrany!!!, 
-	   ak oznacime 1/(1+sqrt(1-conn)) = a, potom a^2+2a*(1-a) = conn, to je sucet 
+	   ak oznacime (1-sqrt(1-conn)) = a, potom a^2+2a*(1-a) = conn, to je sucet 
 	   pravdepodobnosti ze bude zaradena dvojica [i,j], [j,i] alebo obe sucasne
      - kazdy vrchol je pripojeny k tolkym najblizsim vrcholom kolko 
 	   krat sa k nemu zapocitala +1
@@ -129,7 +129,7 @@ void genEdges(unsigned int flags, JOB* j, unsigned int conn, System::Random* r){
 	if (flags&NEAREST){		
 		unsigned int * vdegs = new unsigned int[j->vertNo+1];		
 		if (flags&PEREDGECONN){
-			double climit = 1/(1+sqrt(1-0.01*conn));
+			double climit = 1.0-sqrt(1-0.01*conn);
 			for (unsigned int rpc=0; rpc<=j->vertNo; vdegs[rpc++]=0);
 			for (unsigned int rpc1=1; rpc1<=j->vertNo; rpc1++)
 				for (unsigned int rpc2=1; rpc2<j->vertNo; rpc2++)
@@ -195,6 +195,7 @@ void genEdges(unsigned int flags, JOB* j, unsigned int conn, System::Random* r){
 		j->E[rpc].v1 = (vertCode >> 16) & 0xFFFF;
 		j->E[rpc].v2 = vertCode & 0xFFFF;
 	}
+ delete l;
 }
 
 //true
@@ -229,7 +230,7 @@ void genJob(unsigned int flags,unsigned int vertNo, unsigned int eLenAdd, unsign
 	//vytvorenie struktury
 	JOB* j = new JOB;	
 	j->taskId = taskId;//zapisanie taskId
-	
+
 	System::Random * random = new System::Random((int)taskId);//priprava generatora
 
 	//generovanie vrcholov

@@ -1,0 +1,2 @@
+select cycles, edgecount into outfile 'D:/PROJECTS/PathFinding/Dokument/rozdelenie/data.txt' from result where bat
+chname = 'dijkstraSPACE_PEREDGECONN250' and vertcount = 500 and conn = 5 and elenadd = 25;

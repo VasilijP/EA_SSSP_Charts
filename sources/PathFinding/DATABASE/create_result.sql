@@ -11,7 +11,7 @@ CREATE TABLE `result` (
   `conn` bigint(20) unsigned NOT NULL default '0',
   `task` bigint(20) unsigned default NULL,
   `cycles` bigint(20) unsigned default NULL,
-  `batchname` char(32) NOT NULL default '',
+  `batchname` char(64) NOT NULL default '',
   `result` text,
   PRIMARY KEY  (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8; 

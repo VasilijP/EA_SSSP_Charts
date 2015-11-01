@@ -1,0 +1,62 @@
+dijkstraheapgeomSPACE_MINEDGECONN1
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 1
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 2
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 3
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 4
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 5
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 6
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 7
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 8
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 9
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 10
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 11
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 12
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 13
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 14
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 15
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 16
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 17
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 18
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 19
+dijkstraheapgeom
+SPACE MINEDGECONN
+5000 25 80 20
+END

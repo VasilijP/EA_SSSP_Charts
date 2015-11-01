@@ -1,0 +1,3002 @@
+test001
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+dijkstraheapgeom
+FLAT PEREDGECONN
+1000 25 10 4
+END

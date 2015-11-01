@@ -1,0 +1,3002 @@
+dijkstraheapgeom2
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+dijkstraheapgeom
+FLAT MINEDGECONN
+10000 25 20 -1
+END

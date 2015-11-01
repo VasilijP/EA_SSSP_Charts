@@ -1,0 +1,62 @@
+dijkstraheapgeomFLAT_MINEDGECONN1
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 1
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 2
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 3
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 4
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 5
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 6
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 7
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 8
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 9
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 10
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 11
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 12
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 13
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 14
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 15
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 16
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 17
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 18
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 19
+dijkstraheapgeom
+FLAT MINEDGECONN
+5000 25 80 20
+END

@@ -1,0 +1,1 @@
+echo XXX >zrus.to
