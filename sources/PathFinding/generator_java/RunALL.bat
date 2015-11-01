@@ -1,0 +1,47 @@
+
+
+IF EXIST zrus.to del zrus.to
+
+:START
+
+IF EXIST zrus.to GOTO END
+IF EXIST dijkstraheapgeomFLAT_MINEDGECONN_NEAREST1.log GOTO SKIPTESTdijkstraheapgeomFLAT_MINEDGECONN_NEAREST1
+PathFinding.exe dijkstraheapgeomFLAT_MINEDGECONN_NEAREST1.txt > dijkstraheapgeomFLAT_MINEDGECONN_NEAREST1.log
+:SKIPTESTdijkstraheapgeomFLAT_MINEDGECONN_NEAREST1
+
+IF EXIST zrus.to GOTO END
+IF EXIST dijkstraheapgeomFLAT_MINEDGECONN1.log GOTO SKIPTESTdijkstraheapgeomFLAT_MINEDGECONN1
+PathFinding.exe dijkstraheapgeomFLAT_MINEDGECONN1.txt > dijkstraheapgeomFLAT_MINEDGECONN1.log
+:SKIPTESTdijkstraheapgeomFLAT_MINEDGECONN1
+
+IF EXIST zrus.to GOTO END
+IF EXIST dijkstraheapgeomFLAT_PEREDGECONN_NEAREST1.log GOTO SKIPTESTdijkstraheapgeomFLAT_PEREDGECONN_NEAREST1
+PathFinding.exe dijkstraheapgeomFLAT_PEREDGECONN_NEAREST1.txt > dijkstraheapgeomFLAT_PEREDGECONN_NEAREST1.log
+:SKIPTESTdijkstraheapgeomFLAT_PEREDGECONN_NEAREST1
+
+IF EXIST zrus.to GOTO END
+IF EXIST dijkstraheapgeomFLAT_PEREDGECONN1.log GOTO SKIPTESTdijkstraheapgeomFLAT_PEREDGECONN1
+PathFinding.exe dijkstraheapgeomFLAT_PEREDGECONN1.txt > dijkstraheapgeomFLAT_PEREDGECONN1.log
+:SKIPTESTdijkstraheapgeomFLAT_PEREDGECONN1
+
+IF EXIST zrus.to GOTO END
+IF EXIST dijkstraheapgeomSPACE_MINEDGECONN_NEAREST1.log GOTO SKIPTESTdijkstraheapgeomSPACE_MINEDGECONN_NEAREST1
+PathFinding.exe dijkstraheapgeomSPACE_MINEDGECONN_NEAREST1.txt > dijkstraheapgeomSPACE_MINEDGECONN_NEAREST1.log
+:SKIPTESTdijkstraheapgeomSPACE_MINEDGECONN_NEAREST1
+
+IF EXIST zrus.to GOTO END
+IF EXIST dijkstraheapgeomSPACE_MINEDGECONN1.log GOTO SKIPTESTdijkstraheapgeomSPACE_MINEDGECONN1
+PathFinding.exe dijkstraheapgeomSPACE_MINEDGECONN1.txt > dijkstraheapgeomSPACE_MINEDGECONN1.log
+:SKIPTESTdijkstraheapgeomSPACE_MINEDGECONN1
+
+IF EXIST zrus.to GOTO END
+IF EXIST dijkstraheapgeomSPACE_PEREDGECONN_NEAREST1.log GOTO SKIPTESTdijkstraheapgeomSPACE_PEREDGECONN_NEAREST1
+PathFinding.exe dijkstraheapgeomSPACE_PEREDGECONN_NEAREST1.txt > dijkstraheapgeomSPACE_PEREDGECONN_NEAREST1.log
+:SKIPTESTdijkstraheapgeomSPACE_PEREDGECONN_NEAREST1
+
+IF EXIST zrus.to GOTO END
+IF EXIST dijkstraheapgeomSPACE_PEREDGECONN1.log GOTO SKIPTESTdijkstraheapgeomSPACE_PEREDGECONN1
+PathFinding.exe dijkstraheapgeomSPACE_PEREDGECONN1.txt > dijkstraheapgeomSPACE_PEREDGECONN1.log
+:SKIPTESTdijkstraheapgeomSPACE_PEREDGECONN1
+
+:END
